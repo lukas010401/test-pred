@@ -38,7 +38,7 @@ GROUP BY
     MONTH(TP.DatePaiement)
 GO
 
-
+use data
 
 --select top 250 CAST(Direction as REAL) as Direction,CAST(NombreCollaborateurs as REAL) as NombreCollaborateurs, CAST(Annee as REAL) as Annee,CAST(Mois as REAL) as Mois,CAST(SommeMontantTotalPaye as REAL) as SommeMontantTotalPaye from test ORDER BY Annee desc
 
@@ -50,4 +50,4 @@ select top 250 CAST(Direction as REAL) as Direction,CAST(NombreCollaborateurs as
 select CAST(Direction as REAL) as Direction,CAST(NombreCollaborateurs as REAL) as NombreCollaborateurs,CAST(Annee as REAL) as Annee,CAST(Mois as REAL) as Mois,CAST(SommeMontantTotalPaye as REAL) as SommeMontantTotalPaye from test ORDER BY Annee desc OFFSET 250 ROWS
 
 
-select avg(SommeMontantTotalPaye) from test where direction = 2 and mois = 8;
+select avg(SommeMontantTotalPaye) from test where direction = 10 and mois = 11;
