@@ -1,0 +1,118 @@
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\testPred2.exe
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\testPred2.deps.json
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\testPred2.runtimeconfig.json
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\testPred2.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\testPred2.pdb
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Core.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Data.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.KMeansClustering.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.PCA.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.StandardTrainers.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Transforms.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.CpuMath.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.FastTree.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-arm\native\libLdaNative.so
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\LdaNative.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\LdaNative.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\FastTreeNative.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\FastTreeNative.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.AssemblyReference.cache
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.AssemblyInfoInputs.cache
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.AssemblyInfo.cs
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.CoreCompileInputs.cache
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.CopyComplete
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\refint\testPred2.dll
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.pdb
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\testPred2.genruntimeconfig.cache
+D:\Utilisateurs\Lukas\source\repos\testPred2\testPred2\obj\Debug\net7.0\ref\testPred2.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\testPred2.exe
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\testPred2.deps.json
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\testPred2.runtimeconfig.json
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\testPred2.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\testPred2.pdb
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Core.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Data.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.KMeansClustering.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.PCA.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.StandardTrainers.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.Transforms.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.CpuMath.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.ML.FastTree.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-arm\native\libLdaNative.so
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\LdaNative.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\LdaNative.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\FastTreeNative.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\FastTreeNative.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.AssemblyReference.cache
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.AssemblyInfoInputs.cache
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.AssemblyInfo.cs
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.CoreCompileInputs.cache
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.csproj.CopyComplete
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\refint\testPred2.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.pdb
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\testPred2.genruntimeconfig.cache
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\obj\Debug\net7.0\ref\testPred2.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Azure.Core.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Azure.Identity.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Utilisateurs\Lukas\Documents\Projets\Thème de stage\testPred2\testPred2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
